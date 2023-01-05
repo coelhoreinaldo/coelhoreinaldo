@@ -15,8 +15,8 @@
 ## 📊 Status
 <div align="center">
   <a href="https://github.com/coelhoreinaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coelhoreinaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=dracula&hide_border=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coelhoreinaldo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em"src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=radical&hide_border=true)"/>
 </div>
   
  ## 📧 Contato
