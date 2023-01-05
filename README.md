@@ -1,7 +1,7 @@
 # Olá, meu nome é Reinaldo Coelho
 
 - 👋 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/).
-- 🌱 No momento, estou dedicando-me a aprofundar em JavaScript, utilizando os meus aprendizados em Unix & Shell e Git & GitHub como ferramentas para me auxiliar nessa jornada.
+- 🌱 No momento, estou estudando Mobile First, Flexbox, Forms e alguns Frameworks.
 - 👀 Busco tornar-me um profissional full stack, capaz de trabalhar em diversas áreas da programação.
 
 ## 📚 Tecnologias estudadas
