@@ -1,11 +1,11 @@
-# Olá, eu sou o Reinaldo Coelho 😀
+# Olá, meu nome é Reinaldo Coelho
 
-- 👋 Formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/).
-- 🌱 Estou atualmente estudando flexbox, mobile first, frameworks e forms.
-- 🎯 Busco tornar-me um profissional full stack.
+- 👋 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/).
+- 🌱 No momento, estou dedicando-me a aprofundar em JavaScript, utilizando os meus aprendizados em Unix & Shell e Git & GitHub como ferramentas para me auxiliar nessa jornada.
+- 👀 Busco tornar-me um profissional full stack, capaz de trabalhar em diversas áreas da programação.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/coelhoreinaldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coelhoreinaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -19,4 +19,4 @@
 
 ## Contato
 
-<a href='https://www.linkedin.com/in/coelhoreinaldo/'><img align='center' alt='Reinaldo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href='https://www.linkedin.com/in/coelhoreinaldo/' target='_blank' ><img align='center' alt='Reinaldo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
