@@ -13,18 +13,11 @@
 </div>
 
 ## 📊 Status
-<div align="center">
-  <a href="https://github.com/coelhoreinaldo">
-  <img src="https://github-readme-stats.vercel.app/api?username=coelhoreinaldo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/coelhoreinaldo">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)"/>
-  </a>
-  <a href="https://github.com/coelhoreinaldo/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoreinaldo&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-  
+
+| <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)" alt="Reinaldo's github stats" /></a> | <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoreinaldo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+    
  ## 📧 Contato
   
 <a href='https://www.linkedin.com/in/coelhoreinaldo/' target='_blank' ><img align='center' alt='Reinaldo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+
