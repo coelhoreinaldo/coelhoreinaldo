@@ -14,8 +14,8 @@
 
 ## 📊 Status
 
-| <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)" alt="Reinaldo's github stats" /></a> | <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoreinaldo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)" alt="Reinaldo's github stats" /></a>
+| ------------- |
     
  ## 📧 Contato
   
