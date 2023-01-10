@@ -1,4 +1,4 @@
-# Olá, meu nome é Reinaldo Coelho
+# 🌊 Olá, meu nome é Reinaldo Coelho
 
 - 👋 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/).
 - 🌱 No momento, estou estudando Mobile First, Flexbox, Forms e alguns Frameworks.
