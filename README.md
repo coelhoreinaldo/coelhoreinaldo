@@ -10,6 +10,10 @@
   <img align='center' alt='Reinaldo-HTML'  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
   <img align='center' alt='Reinaldo-CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
   <img align='center' alt='Reinaldo-TailWind' src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'>
+  <img align='center' alt='Reinaldo-Git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
+  <img align='center' alt='Reinaldo-Jest' src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'>
+
+  
 </div>
 
 ## 📊 Status
