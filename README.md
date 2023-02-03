@@ -2,11 +2,13 @@
 
 🇧🇷
 
-- 👋🏻 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/). Busco tornar-me um desenvolvedor full-stack.
+- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e atualmente, estou em transição de carreira para me tornar um desenvolvedor full-stack.
+- 💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
 🇺🇸
 
-- 👋🏻 I'm graduated in Japanese Literature and currently, I'm in career transition to become a full-stack developer.
+- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and currently, I'm in career transition to become a full-stack developer.
+- 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
 
 ## 📚 Habilidades / Skills
 <div style="display: inline_block"><br>
