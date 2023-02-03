@@ -1,7 +1,12 @@
-# 🌊 Olá, meu nome é Reinaldo Coelho
+ <h1 align='center'>🌊 Hi there, I'm Reinaldo Coelho</h1>
 
-- 👋 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/).
-- 👀 Busco tornar-me um profissional full stack, capaz de trabalhar em diversas áreas da programação.
+🇧🇷
+
+- 👋🏻 Sou formado em Licenciatura em Letras Japonês pela Universidade de Brasília (UnB). Hoje estou em transição de carreira para a área de desenvolvimento e atualmente estudo programação na [Trybe](https://www.betrybe.com/). Busco tornar-me um desenvolvedor full-stack.
+
+🇺🇸
+
+- 👋🏻 I'm graduated in Japanese Literature and currently, I'm in career transition to become a full-stack developer.
 
 ## 📚 Habilidades / Skills
 <div style="display: inline_block"><br>
