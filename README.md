@@ -1,4 +1,4 @@
- <h1 align='center'>🌊 Hi there, I'm Reinaldo Coelho</h1>
+ <h1 align='center'>🌊 Olá, eu sou o Reinaldo Coelho</h1>
 
 🇧🇷
 
