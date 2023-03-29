@@ -26,7 +26,8 @@
 <div style="display: inline_block"><br>
   <img align='center' alt='Reinaldo-React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
   <img align='center' alt='Reinaldo-Redux'  src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'>
- <img align='center' alt='Reinaldo-React Router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
+  <img align='center' alt='Reinaldo-React Router' src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
+ <img align='center' alt='Testing-Library' src='https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red'>
 
   
 </div>
