@@ -1,4 +1,4 @@
- <h1 align='center'>🌊 Olá, eu sou o Reinaldo Coelho</h1>
+ <img src="./images/coelho.png" alt="Reinaldo Coelho Background"/>
 
 🇧🇷
 
@@ -26,8 +26,9 @@
  </div>
 
 ## 🌱 Aprendendo / Learning
-<div style="display: inline_block"><br>
+<div align='center'><br>
   <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img align='center' alt='Next.js' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
   
 </div>
 
