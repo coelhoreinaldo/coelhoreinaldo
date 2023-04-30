@@ -1,17 +1,18 @@
- <img src="./images/coelho.png" alt="Reinaldo Coelho Background"/>
+ <img align='center' src="./images/coelho.png" alt="Reinaldo Coelho Background"/>
 
 🇧🇷
 
-- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e atualmente, estou em transição de carreira para me tornar um desenvolvedor full-stack.
-- 💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).
+<p>- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e atualmente, estou em transição de carreira para me tornar um desenvolvedor full-stack.</p>
+<p>- 💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).</p>
 
 🇺🇸
 
-- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and currently, I'm in career transition to become a full-stack developer.
-- 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
+<p>- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and currently, I'm in career transition to become a full-stack developer.</p>
+<p>- 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).</p>
 
 ## 📚 Habilidades / Skills
-<div align='center'><br>
+
+<section align='center'><br>
  
 <img src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black' alt='JavaScript'/>
 <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' alt='HTML'/>
@@ -23,22 +24,24 @@
 <img src='https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white' alt='Testing Library'/>
 <img src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' alt='Redux'/>
 <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' alt='React'/>
- </div>
+ </section>
 
 ## 🌱 Aprendendo / Learning
-<div align='center'><br>
+
+<section align='center'><br>
   <img align='center' alt='React' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img align='center' alt='Next.js' src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'>
   
-</div>
-
+</section>
 
 ## 📊 Status
 
-| <a href="https://github.com/coelhoreinaldo"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)" alt="Reinaldo's github stats" /></a>
-| ------------- |
+<section align='center'>
+<a href="https://github.com/coelhoreinaldo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coelhoreinaldo&theme=tokyonight&hide_border=true)" alt="Reinaldo's github stats" /></a>
+</section>
     
  ## ✉️ Contato / Contact
-  
-<a href='https://www.linkedin.com/in/coelhoreinaldo/' target='_blank' ><img align='center' alt='Reinaldo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
 
+<section align='center'>
+<a href='https://www.linkedin.com/in/coelhoreinaldo/' target='_blank' ><img align='center' alt='Reinaldo-Linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+</section>
