@@ -43,7 +43,8 @@
 ## 🌱 Aprendendo / Learning
 
 <section align='center'><br>
- 
+
+ ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
  
 </section>
