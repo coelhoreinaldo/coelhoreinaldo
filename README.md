@@ -3,13 +3,13 @@
 🇧🇷
 
 - 🏙 Trabalhando como Summer de Instrução na [Trybe](https://www.betrybe.com/).
-- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e atualmente, estou em transição de carreira para me tornar um desenvolvedor full-stack.
+- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e fiz uma transição de carreira para me tornar um desenvolvedor full-stack.
 - 💻 Estou estudando desenvolvimento web na [Trybe](https://www.betrybe.com/).
 
 🇺🇸
 
 - 🏙 Working as an Instruction Summer at [Trybe](https://www.betrybe.com/).
-- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and currently, I'm in career transition to become a full-stack developer.
+- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and successfully transitioned my career to become a full-stack developer.
 - 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
 
 ## 📚 Habilidades / Skills
