@@ -8,7 +8,7 @@
 
 🇺🇸
 
-- 🏙 Working as an Instruction Summer at [Milenio Capital](https://www.milenio.capital/).
+- 🏙 Working as an Software Developer at [Milenio Capital](https://www.milenio.capital/).
 - 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and successfully transitioned my career to become a full-stack developer.
 - 💻 I'm studying web development at [Trybe](https://www.betrybe.com/).
 
