@@ -2,13 +2,13 @@
 
 🇧🇷
 
-- 👋🏻 Sou formado em Letras Japonês pela Universidade de Brasília [(UnB)](https://www.unb.br/) e fiz uma transição de carreira para me tornar um desenvolvedor full-stack.
+- 👋🏻 Desenvolvedor full-stack com 1 ano de experiência profissional.
 - 💻 Estudei desenvolvimento web na [Trybe](https://www.betrybe.com/) e estou atualmente cursando Ciência da Computação na [Universidade Católica de Brasília](https://ucb.catolica.edu.br/).
 
 🇺🇸
 
-- 👋🏻 I'm graduated in Japanese Literature by University of Brasilia [(UnB)](https://international.unb.br/) and successfully transitioned my career to become a full-stack developer.
-- 💻 I studied web development at [Trybe](https://www.betrybe.com/) and am pursuing a Computer Science degree at Universidade Católica de Brasília.
+- 👋🏻 Full-stack developer with 1 year of professional experience.
+- 💻 I studied web development at [Trybe](https://www.betrybe.com/) and am pursuing a Computer Science degree at [Catholic University Of Brasilia](https://ucb.catolica.edu.br/).
 
 ## 📚 Habilidades / Skills
 
