@@ -2,12 +2,12 @@
 
 🇧🇷
 
-- 👋🏻 Desenvolvedor full-stack com 2 anos de experiência profissional.
+- 👋🏻 Engenheiro de Software com 2 anos de experiência profissional.
 - 💻 Estudei desenvolvimento web na [Trybe](https://www.betrybe.com/) e estou atualmente cursando Ciência da Computação na [Universidade Católica de Brasília](https://ucb.catolica.edu.br/).
 
 🇺🇸
 
-- 👋🏻 Full-stack developer with 2 years of professional experience.
+- 👋🏻 Software Engineer with 2 years of professional experience.
 - 💻 I studied web development at [Trybe](https://www.betrybe.com/) and am pursuing a Computer Science degree at [Catholic University Of Brasilia](https://ucb.catolica.edu.br/).
 
 ## 📚 Habilidades / Skills
